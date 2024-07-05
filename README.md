@@ -1,1 +1,1 @@
-![readme](https://github.com/parthdesai24/React-wheather-app-/assets/130673931/3ea22c68-04a3-48cb-81ad-29022b834cd9)
+https://user-images.githubusercontent.com/78134745/126066337-dc827e9a-ce32-4bf4-8adb-b5171f6f26ee.gif
